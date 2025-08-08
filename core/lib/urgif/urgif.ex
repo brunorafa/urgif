@@ -1,6 +1,6 @@
-defmodule Urgif.Core do
+defmodule Urgif do
   @moduledoc """
-  Documentation for `Urgif.Core`.
+  Documentation for `Urgif`.
   """
 
   @doc """
